@@ -218,3 +218,13 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Modelos, audio y datos
+*.gguf
+*.wav
+*.mp3
+*.m4a
+models/
+# Secretos
+.env
